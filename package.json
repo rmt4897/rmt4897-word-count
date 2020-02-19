@@ -8,7 +8,7 @@
   "activationCommands": {
     "atom-workspace": "rmt4897-word-count:toggle"
   },
-  "repository": "https://github.com/atom/rmt4897-word-count",
+  "repository": "https://github.com/rmt4897/rmt4897-word-count",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
