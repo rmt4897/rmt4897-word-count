@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle rmt4897-word-count",
+        "command": "rmt4897-word-count:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "rmt4897-word-count",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "rmt4897-word-count:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
